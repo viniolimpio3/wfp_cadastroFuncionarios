@@ -1,0 +1,10 @@
+C:\Users\vinio\csharp\wfp\cadastroFuncionarios\bin\Debug\cadastroFuncionarios.exe.config
+C:\Users\vinio\csharp\wfp\cadastroFuncionarios\bin\Debug\cadastroFuncionarios.exe
+C:\Users\vinio\csharp\wfp\cadastroFuncionarios\bin\Debug\cadastroFuncionarios.pdb
+C:\Users\vinio\csharp\wfp\cadastroFuncionarios\obj\Debug\cadastroFuncionarios.csproj.AssemblyReference.cache
+C:\Users\vinio\csharp\wfp\cadastroFuncionarios\obj\Debug\cadastroFuncionarios.frmFuncionarios.resources
+C:\Users\vinio\csharp\wfp\cadastroFuncionarios\obj\Debug\cadastroFuncionarios.Properties.Resources.resources
+C:\Users\vinio\csharp\wfp\cadastroFuncionarios\obj\Debug\cadastroFuncionarios.csproj.GenerateResource.cache
+C:\Users\vinio\csharp\wfp\cadastroFuncionarios\obj\Debug\cadastroFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\vinio\csharp\wfp\cadastroFuncionarios\obj\Debug\cadastroFuncionarios.exe
+C:\Users\vinio\csharp\wfp\cadastroFuncionarios\obj\Debug\cadastroFuncionarios.pdb

@@ -35,9 +35,18 @@ namespace cadastroFuncionarios {
             label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new System.Drawing.Point(518, 35);
+            label3.Name = "label3";
+            label3.Size = new System.Drawing.Size(104, 13);
+            label3.TabIndex = 7;
+            label3.Text = "Data de Nascimento";
+            // 
             // btnSalvar
             // 
-            this.btnSalvar.Location = new System.Drawing.Point(15, 228);
+            this.btnSalvar.Location = new System.Drawing.Point(547, 101);
             this.btnSalvar.Name = "btnSalvar";
             this.btnSalvar.Size = new System.Drawing.Size(75, 23);
             this.btnSalvar.TabIndex = 0;
@@ -47,12 +56,13 @@ namespace cadastroFuncionarios {
             // 
             // btnCarregar
             // 
-            this.btnCarregar.Location = new System.Drawing.Point(96, 228);
+            this.btnCarregar.Location = new System.Drawing.Point(30, 101);
             this.btnCarregar.Name = "btnCarregar";
             this.btnCarregar.Size = new System.Drawing.Size(75, 23);
             this.btnCarregar.TabIndex = 1;
             this.btnCarregar.Text = "Carregar";
             this.btnCarregar.UseVisualStyleBackColor = true;
+            this.btnCarregar.Click += new System.EventHandler(this.btnCarregar_Click);
             // 
             // txtCodigo
             // 
@@ -97,20 +107,11 @@ namespace cadastroFuncionarios {
             this.label2.TabIndex = 6;
             this.label2.Text = "Nome";
             // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Location = new System.Drawing.Point(518, 35);
-            label3.Name = "label3";
-            label3.Size = new System.Drawing.Size(104, 13);
-            label3.TabIndex = 7;
-            label3.Text = "Data de Nascimento";
-            // 
             // frmFuncionarios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(656, 263);
+            this.ClientSize = new System.Drawing.Size(639, 146);
             this.Controls.Add(label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtData);
